@@ -8,8 +8,6 @@ API Server: https://api.soundwaffle.com/docs/swagger
 Frontend Codebase: https://github.com/wafflestudio19-5/team10-web
 
 [Preview](https://gravel-mambo-b06.notion.site/4ebdbc746415497eb5f0ff9750f58273?v=58bc695658cd4e9db104933deef6768c)
-|
-[Nginx Config](https://gravel-mambo-b06.notion.site/Nginx-Config-6bc8e937afa140df90fa20e2c3fc8f9a)
 
 ## Common
 ```
